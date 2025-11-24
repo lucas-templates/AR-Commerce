@@ -33,7 +33,7 @@ The project showcases how AR can revolutionize e-commerce by enabling customers 
 ## 📁 Project Structure
 
 ```
-AR Commerce/
+AR-Commerce/
 │
 ├── index.html          # Main HTML file with page structure
 ├── styles.css          # Custom CSS styles and animations
